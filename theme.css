@@ -1,0 +1,54 @@
+.heading {
+  font-size: 30px;
+  width: 100%;
+  box-shadow: 5px 5px 20px green;
+}
+body {
+  font-family: "Raleway", sans-serif;
+  border: 7px black dotted;
+  background-color: rgb(98, 221, 98);
+}
+.divHead {
+  background-color: lightgreen;
+  border-radius: 30px;
+  padding: 10px;
+  box-shadow: 5px 5px 20px greenyellow;
+  color: black;
+  float: none;
+}
+.footer {
+  background-color: rgb(0, 0, 2);
+  line-height: 40px;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  color: white;
+
+  bottom: 0;
+  font-weight: bolder;
+}
+canvas {
+  border: 5px black double;
+  margin-top: 340px;
+  box-shadow: 5px 5px 20px rgb(95, 224, 95);
+  background-color: ivory;
+  border-radius: 25px;
+}
+#mainHead {
+  background-color: rgb(0, 71, 0);
+  color: white;
+}
+#objects {
+  background-color: rgb(110, 226, 110);
+  border-radius: 25px;
+  padding: 10px;
+  width: 45%;
+}
+.colorButton {
+  background-color: rgb(167, 223, 167);
+  color: black;
+  border-radius: 10px;
+  padding: 5px;
+  width: 10%;
+  display: inline-block;
+}
