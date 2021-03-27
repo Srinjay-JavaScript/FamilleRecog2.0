@@ -34,7 +34,7 @@ body {
 }
 canvas {
   border: 5px black double;
-  margin-top: 340px;
+  margin-top: 370px;
   box-shadow: 5px 5px 20px blue;
   border-radius: 25px;
   background-color: whitesmoke;
@@ -50,6 +50,6 @@ canvas {
   color: black;
   border-radius: 10px;
   padding: 5px;
-  width: 10%;
   display: inline-block;
+  border: black 5px solid;
 }
